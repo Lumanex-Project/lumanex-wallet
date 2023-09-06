@@ -17,7 +17,7 @@ Lumanex Wallet is a wallet that uses
 
 - [Electron](http://electron.atom.io/)
 - [React](https://facebook.github.io/react/)
-- [Turtlecoin-wallet-backend-JS](https://github.com/Lumanex-Project/turtlecoin-wallet-backend-js)
+- [lumanex-wallet-backend-JS](https://github.com/Lumanex-Project/lumanex-wallet-backend-js)
 - [Redux](https://github.com/reactjs/redux)
 - [React Router](https://github.com/reactjs/react-router)
 - [Webpack](http://webpack.github.io/docs/)
