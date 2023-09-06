@@ -24,12 +24,6 @@ jobs:
         if: matrix.os == 'windows-latest'
         uses: microsoft/setup-msbuild@v1.0.2
 
-      - name: Setup Cache
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ matrix.os }}-deps
-
       - name: Dependencies
         run: yarn
 
