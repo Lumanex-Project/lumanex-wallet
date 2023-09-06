@@ -1,0 +1,9 @@
+{
+  "decimalPlaces": 8,
+  "addressPrefix": 10549,
+  "ticker": "LNX",
+  "scanCoinbaseTransactions": true,
+  "customUserAgentString": "LumanexWallet-v0.2.6",
+  "defaultMixin": 0
+}
+
